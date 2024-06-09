@@ -74,7 +74,7 @@ Bullets are fired from the gun and move towards the rockets. Upon hitting a rock
 
 ## Authors
 
-- **Your Name** — [zv3zdochka](https://github.com/zv3zdochka)
+- [zv3zdochka](https://github.com/zv3zdochka)
 - Project created at 2023. 
 ## License
 
